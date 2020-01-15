@@ -1,1 +1,0 @@
-<script> window.location.replace("http://akiassc2020.ieeeukf.online/"); </script>
